@@ -9,7 +9,7 @@ public class Main {
            //this is  main method
             System.out.println("hello every one");
             System.out.println("happy learning");
-            System.out.println("welcome to git");
+            System.out.println("welcome to git , have a nice day");
 
     }
 }
